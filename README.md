@@ -1,2 +1,2 @@
-# go-codespace-template2
+# go-codespace-template
 go-codespace-template microsoft

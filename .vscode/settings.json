@@ -1,0 +1,17 @@
+{
+  /*
+	"lowlight-patterns.opacity": 0.3,
+	"lowlight-patterns.rules": [
+		{
+		  "start": "if\\s+err\\s+\\!\\=\\s+nil\\s+\\{",
+		  "end": "\\}"
+		},
+	]
+  */
+  // GO
+  "go.useLanguageServer": true,
+  "go.lintTool": "golangci-lint",
+  "go.lintOnSave": "off",
+  "gopls": { "ui.semanticTokens": true },
+  "go.toolsManagement.autoUpdate": true,
+}
