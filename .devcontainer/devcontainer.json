@@ -1,3 +1,6 @@
+//https://medium.com/@quentin.mcgaw/ultimate-go-dev-container-for-visual-studio-code-448f5e031911
+//https://github.com/qdm12/godevcontainer/blob/master/.devcontainer/devcontainer.json
+
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 // README at: https://github.com/devcontainers/templates/tree/main/src/go
 {
